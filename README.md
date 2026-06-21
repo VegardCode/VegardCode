@@ -2,6 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/VegardCode/Vegard/main/logo2.png" width="200">
 
+<p align="right">
+  <a href="https://github.com/VegardCode/VegardCode/blob/main/README.md">RU</a> | 
+  <a href="https://github.com/VegardCode/VegardCode/blob/main/README_EN.md">EN</a>
+</p>
+
 # Привет, я Семён 👋
 ## Известен как Vegard
 
