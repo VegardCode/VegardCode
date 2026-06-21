@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/VegardCode/Vegard/main/logo2.png" width="200">
+
 # Привет, я Семён 👋
 ## Известен как Vegard
 
