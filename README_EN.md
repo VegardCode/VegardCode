@@ -37,6 +37,6 @@ Follow my journey in building the studio:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VegardCode&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VegardCode&theme=radical)](https://git.io/streak-stats)
 
 </div>
