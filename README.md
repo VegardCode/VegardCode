@@ -42,6 +42,6 @@
 
 ---
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=VegardCode&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VegardCode&theme=radical)](https://git.io/streak-stats)
 
 </div>
